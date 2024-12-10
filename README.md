@@ -13,8 +13,8 @@ Mise en Transit :
 Mettez un colis en état "En transit" pour simuler le déplacement vers sa destination.
 
 Livraison des Colis :
-
 Marquez un colis comme "Livré" une fois arrivé à destination.
+
 Affichage des Colis :
 Une table interactive dans l'interface graphique affiche les colis ajoutés avec leurs états.
 
@@ -33,7 +33,7 @@ Outils de Développement :Eclipse
 Installation et Exécution
 Clonez le dépôt GitHub 
 Importez le projet dans votre IDE préféré (IntelliJ IDEA ou Eclipse).
-Exécutez la classe Main comme programme principal.
+Exécutez la classe InterfaceGraphique comme programme principal.
 
 Structure du Projet
 Packages et Classes
